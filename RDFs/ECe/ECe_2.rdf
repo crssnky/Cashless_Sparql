@@ -1,0 +1,208 @@
+<rdf:RDF
+xmlns:schema="http://schema.org/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:cashless="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#"
+>
+  <rdf:Description rdf:about="ECe_2001">
+    <schema:name xml:lang="ja">レザークラフトフェニックス</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2002">
+    <schema:name xml:lang="ja">レッセフェール</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2003">
+    <schema:name xml:lang="ja">レディスかわにし</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2004">
+    <schema:name xml:lang="ja">ｒｅｔｒｏ．ｊｐ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2005">
+    <schema:name xml:lang="ja">レナヴィアショップ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2006">
+    <schema:name xml:lang="ja">ＲＥＶＯ＋</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2007">
+    <schema:name xml:lang="ja">ＬｅＭｏＮ株式会社</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2008">
+    <schema:name xml:lang="ja">レンズアミーゴ　ＰＯＮＰＡＲＥＭＡＬＬ店</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2009">
+    <schema:name xml:lang="ja">レンズデリ　ポンパレモール店</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2010">
+    <schema:name xml:lang="ja">レンズバーゲン</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2011">
+    <schema:name xml:lang="ja">レンズピット　ＰＯＮＰＡＲＥＭＡＬＬ店</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2012">
+    <schema:name xml:lang="ja">レンズフリー</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2013">
+    <schema:name xml:lang="ja">レンタルCOCO-UU</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2014">
+    <schema:name xml:lang="ja">ロイヤルイン新山口駅前</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2015">
+    <schema:name xml:lang="ja">ＲＯＳＥ　ＬＡＢＯ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2016">
+    <schema:name xml:lang="ja">ログワールド</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2017">
+    <schema:name xml:lang="ja">ROCKETBOOK</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2018">
+    <schema:name xml:lang="ja">六石高原ホテル</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2019">
+    <schema:name xml:lang="ja">ロミ・ユニ　ウェブショップ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2020">
+    <schema:name xml:lang="ja">ロリポップ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2021">
+    <schema:name xml:lang="ja">ロンシャン　オンラインショッピング</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2022">
+    <schema:name xml:lang="ja">ＬＯＮＧＰＳＨＯＥ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2023">
+    <schema:name xml:lang="ja">ワーカーオンラインショップ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2024">
+    <schema:name xml:lang="ja">ワールドコンタクト</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2025">
+    <schema:name xml:lang="ja">ワイルドスカイ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2026">
+    <schema:name xml:lang="ja">ワインショップちきゅうや</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2027">
+    <schema:name xml:lang="ja">ワイン専門店ラブワイン</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2028">
+    <schema:name xml:lang="ja">和菓子司いづみや</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2029">
+    <schema:name xml:lang="ja">和菓子処　南陽軒</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2030">
+    <schema:name xml:lang="ja">わくいきライフ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2031">
+    <schema:name xml:lang="ja">和さくら庵</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2032">
+    <schema:name xml:lang="ja">和紙ちぎり絵しゅんこうネットショップ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2033">
+    <schema:name xml:lang="ja">早稲田法科専門学院</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2034">
+    <schema:name xml:lang="ja">わそう</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2035">
+    <schema:name xml:lang="ja">ワダメガネ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2036">
+    <schema:name xml:lang="ja">和夢兎</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2037">
+    <schema:name xml:lang="ja">ワールドクラブ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2038">
+    <schema:name xml:lang="ja">ＷＡＷＡＪＡＰＡＮ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2039">
+    <schema:name xml:lang="ja">Ｏｎｅ　Ｓｃｅｎｅ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ECe_2040">
+    <schema:name xml:lang="ja">ワンダフルフィッシング　いちだ</schema:name>
+    <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
+  </rdf:Description>
+</rdf:RDF>
