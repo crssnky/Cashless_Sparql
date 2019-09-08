@@ -1,0 +1,41 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix schema: <http://schema.org/>.
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#>.
+@prefix cashless: <https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#>.
+
+<https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#>
+        a               owl:Ontology ;
+        rdfs:label          "Cashless-schema語彙"@ja ;
+        dcterms:creator     [   foaf:homepage   <https://sparql.crssnky.xyz/cashless/> ;
+                                foaf:name       "crssnky"@ja
+                            ] ;
+        dcterms:issued   "2019-09-09" .
+
+# ここからはクラス
+cashless:RealShop             a rdfs:Class;
+  rdfs:comment                  "実店舗を表すクラス"@ja;
+  rdfs:label                    "実店舗"@ja;
+  rdfs:subClassOf               schema:Place.
+  
+cashless:ECShop             a rdfs:Class;
+  rdfs:comment                  "ネットショップを表すクラス"@ja;
+  rdfs:label                    "ネットショップ"@ja;
+  rdfs:subClassOf               schema:WebSite.
+
+# ここからはプロパティ
+cashless:Prefecture         a rdf:Property;
+  rdfs:comment                "県を表すプロパティ"@ja;
+  rdfs:label                  "県"@ja.
+
+cashless:City               a rdf:Property;
+  rdfs:comment                "市を表すプロパティ"@ja;
+  rdfs:label                  "市"@ja.
+
+cashless:Shoptype           a rdf:Property;
+  rdfs:comment                "業種を表すプロパティ"@ja;
+  rdfs:label                  "業種"@ja.
+
+cashless:GranteRate         a rdf:Property;
+  rdfs:comment                "還元率を表すプロパティ"@ja;
+  rdfs:label                  "還元率"@ja.
