@@ -3165,3 +3165,4 @@ xmlns:cashless="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#
     <cashless:GranteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</cashless:GranteRate>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#ECShop"/>
   </rdf:Description>
+</rdf:RDF>
