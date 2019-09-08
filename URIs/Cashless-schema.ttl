@@ -2,9 +2,9 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix schema: <http://schema.org/>.
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#>.
-@prefix cashless: <https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#>.
+@prefix cashless: <https://sparql.crssnky.xyz/cashrdf/URIs/Cashless-schema.ttl#>.
 
-<https://sparql.crssnky.xyz/CashlessRDF/URIs/Cashless-schema.ttl#>
+<https://sparql.crssnky.xyz/cashrdf/URIs/Cashless-schema.ttl#>
         a               owl:Ontology ;
         rdfs:label          "Cashless-schema語彙"@ja ;
         dcterms:creator     [   foaf:homepage   <https://sparql.crssnky.xyz/cashless/> ;
