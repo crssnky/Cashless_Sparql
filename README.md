@@ -1,8 +1,11 @@
 # Cashless_Sparql
 キャッシュレス事業のアレをLODにした
 
+# Website 
+https://sparql.crssnky.xyz/cashless/
+
 # Endpoint
-https://sparql.crssnky.xyz/Cashless_Sparql/
+https://sparql.crssnky.xyz/spql/cashless/query
 
 # 「キャッシュレス・消費者還元事業」
 https://cashless.go.jp/consumer/index.html
